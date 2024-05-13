@@ -38,6 +38,14 @@
     {
       "route": "/logout",
       "redirect": "/.auth/logout"
+    },
+    {
+      "route": "*",
+      "methods": [
+        "get",
+        "head"
+      ],
+      "rewrite": "/test"
     }
   ],
   "auth": {
