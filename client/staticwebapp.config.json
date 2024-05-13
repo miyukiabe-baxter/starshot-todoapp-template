@@ -2,12 +2,6 @@
   "trailingSlash": "auto",
   "routes": [
     {
-      "route": "4"
-    },
-    {
-      "route": "5"
-    },
-    {
       "route": "6"
     },
     {
