@@ -2,7 +2,7 @@
   "trailingSlash": "auto",
   "routes": [
     {
-      "route": "8"
+      "route": "8--"
     },
     {
       "route": "/api/*",
