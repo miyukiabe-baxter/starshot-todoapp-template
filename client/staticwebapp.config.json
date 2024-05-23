@@ -7,15 +7,6 @@
     {
       "route": "/api/*",
       "methods": [
-        "GET"
-      ],
-      "allowedRoles": [
-        "authenticated"
-      ]
-    },
-    {
-      "route": "/api/*",
-      "methods": [
         "PUT",
         "POST",
         "PATCH",
